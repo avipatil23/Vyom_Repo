@@ -1,0 +1,132 @@
+body {font-family:"Arial", Arial, sans-serif; font-size:100%; color: #191919;}
+h1 {font-size:40px;}
+h2 {font-size:30px;}
+h3 {font-size:25px;}
+p {font-size:14px;}
+table {font-size:12px;}
+input[type=text] {
+    border: 1px solid gray;
+}
+input[type=password] {
+    border: 1px solid gray;
+}
+hr {color: #B80000; height: 2px;}
+.button100 {
+    border: none;
+    background: url("../images/orangebutton_100.png") no-repeat top left;
+    padding: 2px 8px;
+    width: 100px;
+    height: 30px;
+    color: black;
+    font-weight: bold;
+}
+.button125 {
+    border: none;
+    background: url("../images/orangebutton_125.png") no-repeat top left;
+    padding: 2px 8px;
+    width: 125px;
+    height: 30px;
+    color: black;
+    font-weight: bold;
+}
+.button150 {
+    border: none;
+    background: url("../images/orangebutton_150.png") no-repeat top left;
+    padding: 2px 8px;
+    width: 150px;
+    height: 30px;
+    color: black;
+    font-weight: bold;
+}
+.button175 {
+    border: none;
+    background: url("../images/orangebutton_175.png") no-repeat top left;
+    padding: 2px 8px;
+    width: 175px;
+    height: 30px;
+    color: black;
+    font-weight: bold;
+}
+.button200 {
+    border: none;
+    background: url("../images/button_200.png") no-repeat top left;
+    padding: 2px 8px;
+    width: 200px;
+    height: 30px;
+    color: black;
+    font-weight: bold;
+}
+.tableBg{
+	background-image: url("../images/LoginBG.png");
+}
+.mandetoryField{
+	color: red;
+}
+.tableHeader{
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+}
+.pageHeader{
+	color: #1a237e;font-size: 18px;
+
+	
+}
+
+.pageHeader1{
+	color: #e65100;	font-size: 12px;
+}
+
+.pageHeader2{
+	color: #e65100;font-size: 25px;
+}
+
+.pageHeader3{
+	color: #e65100;
+	font-size: 15px;
+	
+}
+
+.pageHeader4{
+	color: gray;
+	font-size: 12px;
+	
+}
+.pageHeader5{
+	color: #1a237e;font-size: 18px;
+	padding-bottom: 10px;
+	
+}
+
+
+.pageHeader1{
+	color: grey;font-size: 15px;
+}
+a:link {font-weight: bold; text-decoration:  none;}      /* unvisited link */
+a:visited {color:#f89520;}  /* visited link */
+a:hover {color:#FF00FF;}  /* mouse over link */
+a:active {color:#f89520;}  /* selected link */
+.tableMenuBorder{
+	border:5px solid #f89520;
+}
+.tableBorder{
+	border: 1px solid gray;
+}
+
+.tableHeader2{
+	color: #191919;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: gray;
+}
+
+.tableHeader3{
+	color: #191919;
+	font-size: 15px;
+	font-weight: bold;
+	background-color: gray;
+}
+.tableButtonRow{
+	background-color: #B2B2B2;
+}
+.disableLink{color:#B2B2B2; font-weight: bold; font-size: 15px; text-decoration:  none;}
