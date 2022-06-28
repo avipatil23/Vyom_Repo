@@ -140,7 +140,7 @@ String nsec = String.valueOf(milliSec);
   <!-- Main Heading -->
   <div class="heading">
     <h1>vControl-M Dashboard</h1>
-    <p id="small-title">Reducing Operational Latency, Gaining Operational Efficiency...
+    <p id="small-title">Reducing Operational Latency, Gaining Operational Efficiency...Dashboard
       <br>Effective Business View</p>
   </div>
   <div>
