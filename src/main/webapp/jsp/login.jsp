@@ -98,7 +98,7 @@ String nsec = String.valueOf(milliSec);
    <%--  <div align="center" style="color: red;"><h3>${session}</h3></div> --%>
     	<div id="sub-left">
     		<!-- <div align="center" class="pageHeader2">vControl-M Dashboard</div><br>
-	    	<div align="center" class="pageHeader3">Reducing Operational Latency, Gaining Operational Efficency....</div>
+	    	<div align="center" class="pageHeader3">Reducing Operational Latency, Gaining Operational Efficency.. Dashboard..</div>
 			<div align="center" class="pageHeader3">Effective Business View </div><br><br><br><br> -->
     		<div ><img src="images/login-screen_final_2.png" alt="Avatar" class="avatar"></div>
 		</div>
